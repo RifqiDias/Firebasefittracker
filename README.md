@@ -1,36 +1,22 @@
+
+
+
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Firebasefittracker" />
+ <img src="1.jpeg" alt="Firebasefittracker" />
+    <img src="2.jpeg" alt="Firebasefittracker" />
+      <img src="3.jpeg" alt="Firebasefittracker" />
+        <img src="4.jpeg" alt="Firebasefittracker" />
+        <img src="5.jpeg" alt="Firebasefittracker" />
+
 
   &#xa0;
 
   <!-- <a href="https://firebasefittracker.netlify.app">Demo</a> -->
 </div>
 
+
 <h1 align="center">Firebasefittracker</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/firebasefittracker?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/firebasefittracker?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/firebasefittracker?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/firebasefittracker?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/firebasefittracker?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/firebasefittracker?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/firebasefittracker?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Firebasefittracker 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -47,52 +33,55 @@
 ## :dart: About ##
 
 Describe your project
+Fit tracker for tracing your weight
 
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [FVM](https://fvm.app/)
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Provider](https://pub.dev/packages/provider)
+- [Firebase](https://firebase.google.com/)
+- [FireStore](https://firebase.google.com/docs/firestore)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/firebasefittracker
+$ git clone https://github.com/RifqiDias/firebasefittracker
 
 # Access
 $ cd firebasefittracker
 
 # Install dependencies
-$ yarn
+$ flutter pub get
 
 # Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+$ flutter run start
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
 
-&#xa0;
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+
+Made with :heart: by <a href="https://github.com/RifqiDias" 
 
 <a href="#top">Back to top</a>
+
